@@ -25,6 +25,7 @@ cd Chain-Simulation
 ```
 2. Install dependencies:
 ```bash
+cd Chain_Sim
 pip install -r requirements.txt
 ```
 3. Run the simulation:
