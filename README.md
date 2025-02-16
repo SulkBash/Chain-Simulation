@@ -1,6 +1,7 @@
 # Falling Chain Physics Simulation ⛓️
 
 ![Python Version](https://img.shields.io/badge/python-3.7%2B-blue)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A real-time physics simulation of a falling chain with adjustable gravity and interactive dragging capabilities, implemented in Python using Verlet integration.
 
