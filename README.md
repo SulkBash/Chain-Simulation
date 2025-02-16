@@ -62,3 +62,7 @@ Distance Constraint (to maintain the chain structure):
 3. Commit your changes (git commit -m 'Add some amazing feature')
 4. Push to the branch (git push origin feature/amazing-feature)
 5. Open a Pull Request
+
+## 📜 License
+
+Distributed under the MIT License. See ![LICENSE](LICENSE) for more information.
